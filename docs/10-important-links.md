@@ -1,8 +1,11 @@
 # Important Links
 
-## Resources
-- Ebook: [Amazon Link]
-- Main Landing Page: [URL]
-- Free Ebook Landing Page: [URL]
+## Amazon Ebook Link
+https://www.amazon.com/Business-Retirement-Vault-Strategic-Tax-Free-ebook/dp/B0DRTVZ3J3/
 
-[Content from Document 10...]
+## Landing Pages
+- Main Landing Page: https://businessretirementvault.com/
+- Free Ebook Landing Page: https://businessretirementvault.com/strategytime
+
+## Additional Resources
+[Any additional links and resources from Document 10...]
