@@ -1,3 +1,10 @@
-# Resource Links and General Use Information
+# Resource Links for General Use
 
-[Full content from Document 10...]
+## Amazon Ebook Link
+https://www.amazon.com/Business-Retirement-Vault-Strategic-Tax-Free-ebook/dp/B0DRTVZ3J3/
+
+## Landing Page Links
+https://businessretirementvault.com/
+https://businessretirementvault.com/strategytime
+
+[Additional resource information...]
